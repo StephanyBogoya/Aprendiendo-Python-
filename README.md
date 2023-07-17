@@ -20,4 +20,5 @@ Vamos a encontrar principalmente 2 librerías pyplot y seaborn para realizar un 
    - Aprender a usar Plotly modulo in python
    - Vamos a encontrar primero una revisión de los datos, Visualización de la propagación mundial de COVID-19 desde el primer día de la        pandemia, Visualización de la intensidad de la Transmisión Covid19 en cada país, Propagación de COVID19 antes y después del               aislamiento en Italia y Tasa de muertes antes y después del aislamiento nacional en Italia.
 
-## [Distribuciones estadísticas](https://github.com/StephanyBogoya/Aprendiendo-Python-/blob/main/Taller_Ejercicios_distribuciones%20estad%C3%ADstica.ipynb)
+## Distribuciones estadísticas 
+- [x] [Distribuciones estadísticas](https://github.com/StephanyBogoya/Aprendiendo-Python-/blob/main/Taller_Ejercicios_distribuciones%20estad%C3%ADstica.ipynb)
